@@ -2,6 +2,12 @@
 
 Template of a simple flutter app with riverpod
 
+## Installation
+
+```sh
+npx degit https://github.com/TheSmartMonkey/create-flutter-app app
+```
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
